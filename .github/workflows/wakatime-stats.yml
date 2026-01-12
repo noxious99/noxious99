@@ -24,7 +24,7 @@ jobs:
           set -euo pipefail
           mkdir -p wakatime
           
-          # Professional dashboard for hiring managers
+          # Professional dashboard - uses weekly data instead of all-time
           URL="https://wakatime-readme-stats.vercel.app/api/wakatimeStats"
           URL="${URL}?username=$GITHUB_ACTOR"
           URL="${URL}&api_key=$WAKATIME_API_KEY"
@@ -41,10 +41,9 @@ jobs:
           URL="${URL}&component2_mode=stats"
           URL="${URL}&component2_show_icons=true"
           URL="${URL}&component2_default_source=combo"
-          URL="${URL}&component3_type=all_langs"
-          URL="${URL}&component3_chart_type=bar_vertical"
-          URL="${URL}&component3_num_langs=10"
-          URL="${URL}&component3_y_axis=true"
+          URL="${URL}&component3_type=weekly_langs"
+          URL="${URL}&component3_chart_type=donut"
+          URL="${URL}&component3_hide_legend=false"
           URL="${URL}&component3_hide_title=false"
           URL="${URL}&component4_type=weekly_avg"
           URL="${URL}&component4_chart_type=bar"
