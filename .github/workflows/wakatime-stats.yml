@@ -24,27 +24,36 @@ jobs:
           set -euo pipefail
           mkdir -p wakatime
           
-          # Build comprehensive dashboard URL
+          # Professional dashboard for hiring managers
           URL="https://wakatime-readme-stats.vercel.app/api/wakatimeStats"
           URL="${URL}?username=$GITHUB_ACTOR"
           URL="${URL}&api_key=$WAKATIME_API_KEY"
           URL="${URL}&github_token=$GITHUB_TOKEN"
-          URL="${URL}&components=4"
-          URL="${URL}&theme=dark_github"
+          URL="${URL}&components=5"
+          URL="${URL}&theme=warm_graphite"
           URL="${URL}&scale=true"
-          URL="${URL}&border_width=2"
-          URL="${URL}&border_radius=10"
+          URL="${URL}&border_width=1"
+          URL="${URL}&border_radius=8"
+          URL="${URL}&show_header=true"
           URL="${URL}&component1_type=basic"
+          URL="${URL}&component1_default_source=combo"
           URL="${URL}&component2_type=rank"
           URL="${URL}&component2_mode=stats"
           URL="${URL}&component2_show_icons=true"
-          URL="${URL}&component3_type=weekly_avg"
-          URL="${URL}&component3_chart_type=radar"
-          URL="${URL}&component3_chart_color=58a6ff"
-          URL="${URL}&component3_hide_legend=false"
-          URL="${URL}&component4_type=heatmap"
+          URL="${URL}&component2_default_source=combo"
+          URL="${URL}&component3_type=all_langs"
+          URL="${URL}&component3_chart_type=bar_vertical"
+          URL="${URL}&component3_num_langs=10"
+          URL="${URL}&component3_y_axis=true"
+          URL="${URL}&component3_hide_title=false"
+          URL="${URL}&component4_type=weekly_avg"
+          URL="${URL}&component4_chart_type=bar"
           URL="${URL}&component4_start_day=mo"
-          URL="${URL}&component4_heatmap_color=58a6ff"
+          URL="${URL}&component4_y_axis=true"
+          URL="${URL}&component4_y_axis_label=true"
+          URL="${URL}&component4_hide_total=false"
+          URL="${URL}&component5_type=heatmap"
+          URL="${URL}&component5_start_day=mo"
           
           curl -fsSL "$URL" -o wakatime/stats.svg
 
