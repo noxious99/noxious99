@@ -23,15 +23,35 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN" \
-            -o wakatime/stats.svg
+          
+          # Build comprehensive dashboard URL
+          URL="https://wakatime-readme-stats.vercel.app/api/wakatimeStats"
+          URL="${URL}?username=$GITHUB_ACTOR"
+          URL="${URL}&api_key=$WAKATIME_API_KEY"
+          URL="${URL}&github_token=$GITHUB_TOKEN"
+          URL="${URL}&components=4"
+          URL="${URL}&theme=dark_github"
+          URL="${URL}&scale=true"
+          URL="${URL}&border_width=2"
+          URL="${URL}&border_radius=10"
+          URL="${URL}&component1_type=basic"
+          URL="${URL}&component2_type=rank"
+          URL="${URL}&component2_mode=stats"
+          URL="${URL}&component2_show_icons=true"
+          URL="${URL}&component3_type=weekly_avg"
+          URL="${URL}&component3_chart_type=radar"
+          URL="${URL}&component3_chart_color=58a6ff"
+          URL="${URL}&component3_hide_legend=false"
+          URL="${URL}&component4_type=heatmap"
+          URL="${URL}&component4_start_day=mo"
+          URL="${URL}&component4_heatmap_color=58a6ff"
+          
+          curl -fsSL "$URL" -o wakatime/stats.svg
 
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
         run: |
           set -euo pipefail
-
-          V="$(date -u +%Y%m%d)"  # changes once per day
-
+          V="$(date -u +%Y%m%d)"
           sed -i -E "s#(wakatime/stats\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
           sed -i -E "s#(wakatime/stats\.svg)(\"|')#\1?v=$V\2#g" README.md
 
@@ -40,9 +60,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add wakatime/stats.svg README.md
           git diff --cached --quiet && echo "No changes" && exit 0
-
           git commit -m "Update WakaTime stats SVG (cache-bust v=$(date -u +%Y%m%d))"
           git push
