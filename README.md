@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafiur+Rahman+Saad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafiur+Rahman+Saad" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0d1117?style=flat&logo=google-maps&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-0d1117?style=flat&logo=amazon-aws&logoColor=58A6FF" />
+  ![AI & Cybersecurity](https://img.shields.io/badge/Focus-AI%20%26%2LLM-0d1117?style=flat&logo=OpenAI&logoColor=58A6FF)
 </p>
 
 ---
