@@ -74,7 +74,10 @@ I’m a software engineer with professional experience building and owning featu
     <img width="600" src="https://wakatime.com/share/@rafi_saad/40d52715-e264-4e9e-9ff6-66ac5583b874.png" />
   </a>
 </p>
-## 🏆 Competitive Programming
+
+---
+
+### 🏆 Competitive Programming
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LAP_D_TOSHOK&theme=github_dark" />
