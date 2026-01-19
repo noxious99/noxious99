@@ -56,9 +56,8 @@ I’m a software engineer with professional experience building and owning featu
 <summary align="center"><b>📊 Detailed WakaTime Stats</b></summary>
 
 ### Coding Activity
-<figure>
-  <embed src="https://wakatime.com/share/@rafi_saad/3b919034-547d-4561-aa13-1784fe22c66b.svg"></embed>
-</figure>
+.. image:: https://wakatime.com/share/@rafi_saad/06409b77-5e7b-43ac-8412-fff9b66ffe30.png
+    :target: https://wakatime.com/
 
 ### Languages
 <figure>
