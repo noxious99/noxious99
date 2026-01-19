@@ -17,8 +17,8 @@ I’m a software engineer with professional experience building and owning featu
 
 ## ⚡ Core Profile
 **Full-Stack Engineering**
-- Frontend: Vue.js, Vuetify, React, Next.js, Tailwind CSS
 - Backend: FastAPI, Node.js, Express, Python, Socket servers
+- Frontend: Vue.js, Vuetify, React, Next.js, Tailwind CSS
 - Cloud: AWS (Lambda, API Gateway, DynamoDB, S3, SES, CloudFront, CloudWatch)
 
 **Technical Expertise**
@@ -64,14 +64,14 @@ I’m a software engineer with professional experience building and owning featu
 ### 💻 Languages
 <p align="center">
   <a href="https://wakatime.com/@rafi_saad">
-    <img width="600" src="https://wakatime.com/share/@rafi_saad/5c8cceb4-0f40-4380-91b8-a6817da87474.png" />
+    <img width="550" src="https://wakatime.com/share/@rafi_saad/5c8cceb4-0f40-4380-91b8-a6817da87474.png" />
   </a>
 </p>
 
 ### 🖥️ Operating System
 <p align="center">
   <a href="https://wakatime.com/@rafi_saad">
-    <img width="600" src="https://wakatime.com/share/@rafi_saad/40d52715-e264-4e9e-9ff6-66ac5583b874.png" />
+    <img width="550" src="https://wakatime.com/share/@rafi_saad/40d52715-e264-4e9e-9ff6-66ac5583b874.png" />
   </a>
 </p>
 
