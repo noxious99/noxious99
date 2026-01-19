@@ -55,20 +55,26 @@ I’m a software engineer with professional experience building and owning featu
 
 <summary align="center"><b>📊 Detailed WakaTime Stats</b></summary>
 
-### Coding Activity
-.. image:: https://wakatime.com/share/@rafi_saad/06409b77-5e7b-43ac-8412-fff9b66ffe30.png
-    :target: https://wakatime.com/
+### 🕒 Coding Activity
+<p align="center">
+  <a href="https://wakatime.com/@rafi_saad">
+    <img src="https://wakatime.com/share/@rafi_saad/06409b77-5e7b-43ac-8412-fff9b66ffe30.png" />
+  </a>
+</p>
 
-### Languages
-<figure>
-  <embed src="https://wakatime.com/share/@rafi_saad/597aec76-5bda-4590-83f9-158c42c61e0c.svg"></embed>
-</figure>
+### 💻 Languages
+<p align="center">
+  <a href="https://wakatime.com/@rafi_saad">
+    <img src="https://wakatime.com/share/@rafi_saad/5c8cceb4-0f40-4380-91b8-a6817da87474.png" />
+  </a>
+</p>
 
-### OS
-<figure>
-  <embed src="https://wakatime.com/share/@rafi_saad/8e93a775-7ffe-43b9-84e2-21e89ae2986d.svg"></embed>
-</figure>
-
+### 🖥️ Operating System
+<p align="center">
+  <a href="https://wakatime.com/@rafi_saad">
+    <img src="https://wakatime.com/share/@rafi_saad/40d52715-e264-4e9e-9ff6-66ac5583b874.png" />
+  </a>
+</p>
 ---
 
 ## 🏆 Competitive Programming
