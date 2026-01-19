@@ -54,7 +54,7 @@ I’m a software engineer with professional experience building and owning featu
 
 
 
-<b style="margin-top: 16px">📊 Detailed WakaTime Stats</b>
+<b style="margin-top: 16px; font-size: 32px" align="center">📊 Detailed Stats</b>
 
 ### 🕒 Coding Activity
 <p align="center">
@@ -64,19 +64,18 @@ I’m a software engineer with professional experience building and owning featu
 </p>
 
 ### 💻 Languages
-<p align="center" style="width: 400px; height: auto">
+<p align="center" style="width: 200px; height: auto">
   <a href="https://wakatime.com/@rafi_saad">
     <img src="https://wakatime.com/share/@rafi_saad/5c8cceb4-0f40-4380-91b8-a6817da87474.png" />
   </a>
 </p>
 
 ### 🖥️ Operating System
-<p align="center" style="width: 400px; height: auto">
+<p align="center" style="width: 200px; height: auto">
   <a href="https://wakatime.com/@rafi_saad">
     <img src="https://wakatime.com/share/@rafi_saad/40d52715-e264-4e9e-9ff6-66ac5583b874.png" />
   </a>
 </p>
----
 
 ## 🏆 Competitive Programming
 
