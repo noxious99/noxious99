@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0d1117?style=flat&logo=google-maps&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-0d1117?style=flat&logo=amazon-aws&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLM-0d1117?style=flat&logo=OpenAI&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Stack-Backend%20%26%20Cloud-0d1117?style=flat&logo=amazon-aws&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20LLM-0d1117?style=flat&logo=OpenAI&logoColor=58A6FF" />
 </p>
 
 ---
