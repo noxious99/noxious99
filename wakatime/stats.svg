@@ -1,10 +1,10 @@
 
-<svg width="696" height="964.8449885583524" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="696" height="972.7419116352755" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="0.5"
     y="0.5"
     width="695"
-    height="963.8449885583524"
+    height="971.7419116352755"
     fill="#212121"
     stroke="#bdbdbd"
     stroke-width="1"
@@ -18,19 +18,19 @@
         Stats
       </text>
     </g>
-  <g transform="translate(0, 56) scale(1.74)">
+  <g transform="translate(0, 56) scale(1.7846153846153847)">
       <g transform="translate(0, 176.79999999999998)">
 <text font-family="Calibri" x="20" y="-154.7" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
-<text font-family="Calibri" x="20" y="-132.6" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 104</text>
+<text font-family="Calibri" x="20" y="-132.6" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 118</text>
 <text font-family="Calibri" x="20" y="-110.49999999999999" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total PRs:</tspan> 16</text>
 <text font-family="Calibri" x="20" y="-88.39999999999999" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Issues:</tspan> 0</text>
 <text font-family="Calibri" x="20" y="-66.3" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Reviews:</tspan> 0</text>
 <text font-family="Calibri" x="20" y="-44.199999999999996" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Followers:</tspan> 2</text>
 <text font-family="Calibri" x="20" y="-22.099999999999998" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Contributed To:</tspan> N/A</text>
-<text font-family="Calibri" x="20" y="0" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Most Active Day:</tspan> November 15th, 2025</text>
+<text font-family="Calibri" x="20" y="0" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Most Active Day:</tspan> January 19th, 2026</text>
 </g>
     </g>
-<g transform="translate(0, 383.98) scale(1.5926773455377574)">
+<g transform="translate(0, 391.8769230769231) scale(1.5926773455377574)">
       <text x="218.5" y="25" font-size="16" text-anchor="middle" fill="#bdbdbd" font-family="Calibri" font-weight="bold">Yearly Ranking</text>
       <g transform="translate(0, 35)"><g transform="translate(60,8) scale(0.6)" ><path d="M14.4012 3.17499C13.8719 2.11134 13.0447 1.32715 11.9987 1.32715C10.9539 1.32715 10.1241 2.11 9.58985 3.17284L7.82915 6.69424L7.82642 6.69975C7.77359 6.8076 7.64731 6.9611 7.45702 7.10219C7.26737 7.2428 7.0834 7.31975 6.96547 7.34005L6.96441 7.34023L3.77705 7.86979C2.62694 8.06147 1.66106 8.62118 1.34801 9.6015C1.03519 10.5811 1.49663 11.597 2.31964 12.42L4.79964 14.9C4.89724 14.9976 5.0066 15.1815 5.07518 15.4211C5.14334 15.6592 5.1491 15.8751 5.11856 16.0137L5.11813 16.0156L4.40928 19.0806C4.11373 20.3578 4.21624 21.6259 5.12539 22.2893C6.03398 22.9522 7.27361 22.6647 8.40273 21.9946L11.3871 20.2279L11.389 20.2268C11.5232 20.1494 11.7443 20.0896 12.0037 20.0896C12.265 20.0896 12.4816 20.1502 12.6076 20.2249L15.5979 21.995C16.7284 22.6628 17.9695 22.9555 18.878 22.2932C19.7878 21.6299 19.8854 20.3595 19.5908 19.0812L18.8818 16.0156L18.8814 16.0137C18.8508 15.8751 18.8566 15.6592 18.9248 15.4211C18.9933 15.1815 19.1027 14.9976 19.2003 14.9L21.6785 12.4218L21.6795 12.4208C22.5077 11.5978 22.9706 10.5811 22.6552 9.60014C22.3403 8.62044 21.3726 8.06141 20.2233 7.86985L17.0333 7.33985" fill="#ff8a65" /></g>
 <g transform="translate(88,24) scale(0.6)" ><path d="M13.73 3.50965L15.49 7.02965C15.73 7.51965 16.37 7.98965 16.91 8.07965L20.1 8.60965C22.14 8.94965 22.62 10.4296 21.15 11.8896L18.67 14.3696C18.25 14.7896 18.02 15.5996 18.15 16.1796L18.86 19.2496C19.42 21.6796 18.13 22.6196 15.98 21.3496L12.99 19.5796C12.45 19.2596 11.56 19.2596 11.01 19.5796L8.02003 21.3496C5.88003 22.6196 4.58003 21.6696 5.14003 19.2496L5.85003 16.1796C5.98003 15.5996 5.75003 14.7896 5.33003 14.3696L2.85003 11.8896C1.39003 10.4296 1.86003 8.94965 3.90003 8.60965L7.09003 8.07965C7.62003 7.98965 8.26003 7.51965 8.50003 7.02965L10.26 3.50965C11.22 1.59965 12.78 1.59965 13.73 3.50965Z" stroke="#ff8a65" fill="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /></g>
@@ -47,7 +47,7 @@
       <g transform="translate(160,25) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><path d="M480 208H308L256 48l-52 160H32l140 96-54 160 138-100 138 100-54-160z" fill="none" stroke="#ff8a65" stroke-linejoin="round" stroke-width="48"/>
 </g><text x="178" y="35" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
 <g transform="translate(160,43) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><circle cx="256" cy="256" r="96" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M160 256H48M464 256H352"/>
-</g><text x="178" y="53" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Commits:</tspan> 110</text>
+</g><text x="178" y="53" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Commits:</tspan> 124</text>
 <g transform="translate(160,61) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><circle cx="128" cy="416" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M128 144v224M288 160l-64-64 64-64"/><circle cx="128" cy="96" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><circle cx="384" cy="416" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M240 96h84a60 60 0 0160 60v212" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/>
 </g><text x="178" y="71" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total PRs:</tspan> 16</text>
 <g transform="translate(160,79) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><path d="M85.57 446.25h340.86a32 32 0 0028.17-47.17L284.18 82.58c-12.09-22.44-44.27-22.44-56.36 0L57.4 399.08a32 32 0 0028.17 47.17z" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M250.26 195.39l5.74 122 5.73-121.95a5.74 5.74 0 00-5.79-6h0a5.74 5.74 0 00-5.68 5.95z" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M256 397.25a20 20 0 1120-20 20 20 0 01-20 20z"/>
@@ -60,17 +60,17 @@
 </g><text x="316" y="71" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Contributed to:</tspan> 0</text>
     </g>
     </g>
-<g transform="translate(348, 650.8449885583524) scale(1)">
+<g transform="translate(348, 658.7419116352755) scale(1)">
       <text x="20" y="20" fill="black" font-size="14">
               ⚠︎ Error: No 7-day summary data available.
             </text>
     </g>
-<g transform="translate(348, 710.8449885583524) scale(1)">
+<g transform="translate(348, 718.7419116352755) scale(1)">
       <text x="20" y="20" fill="black" font-size="14">
               ⚠︎ Error: No weekday average insight data available.
             </text>
     </g>
-<g transform="translate(0, 770.8449885583524) scale(1)">
+<g transform="translate(0, 778.7419116352755) scale(1)">
       <text x="40" y="18" font-size="14" fill="#bdbdbd" font-family="Calibri" font-weight="bold">
         This year, my most productive month was October
       </text>
@@ -454,7 +454,7 @@
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.10" stroke="#bdbdbd" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.10" stroke="#bdbdbd" stroke-width="0.5" />
 <rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.58" stroke="#bdbdbd" stroke-width="0.5" />
-<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.49" stroke="#bdbdbd" stroke-width="0.5" />
+<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.10" stroke="#bdbdbd" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#bdbdbd" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.1"/>
