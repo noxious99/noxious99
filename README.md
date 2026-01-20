@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a software engineer with professional experience building and owning features for production-grade full-stack systems. I currently work primarily on **private Bitbucket repositories** as part of a team developing large-scale web applications. My GitHub is used mainly for personal projects and technical exploration. My professional development activity is tracked through **WakaTime**, which reflects my day-to-day coding on real systems.
+I’m a software engineer with professional experience building and owning features for production-grade systems. I currently work primarily on **private Bitbucket repositories** as part of a team developing large-scale web applications. My GitHub is used mainly for personal projects and technical exploration. My professional development activity is tracked through **WakaTime**, which reflects my day-to-day coding on real systems.
 
 ---
 
