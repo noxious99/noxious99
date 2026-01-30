@@ -21,7 +21,7 @@
   <g transform="translate(0, 56) scale(1.7846153846153847)">
       <g transform="translate(0, 176.79999999999998)">
 <text font-family="Calibri" x="20" y="-154.7" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
-<text font-family="Calibri" x="20" y="-132.6" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 118</text>
+<text font-family="Calibri" x="20" y="-132.6" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 119</text>
 <text font-family="Calibri" x="20" y="-110.49999999999999" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total PRs:</tspan> 18</text>
 <text font-family="Calibri" x="20" y="-88.39999999999999" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Issues:</tspan> 0</text>
 <text font-family="Calibri" x="20" y="-66.3" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Reviews:</tspan> 0</text>
@@ -47,7 +47,7 @@
       <g transform="translate(160,25) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><path d="M480 208H308L256 48l-52 160H32l140 96-54 160 138-100 138 100-54-160z" fill="none" stroke="#ff8a65" stroke-linejoin="round" stroke-width="48"/>
 </g><text x="178" y="35" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
 <g transform="translate(160,43) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><circle cx="256" cy="256" r="96" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M160 256H48M464 256H352"/>
-</g><text x="178" y="53" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Commits:</tspan> 124</text>
+</g><text x="178" y="53" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Commits:</tspan> 125</text>
 <g transform="translate(160,61) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><circle cx="128" cy="416" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M128 144v224M288 160l-64-64 64-64"/><circle cx="128" cy="96" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><circle cx="384" cy="416" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M240 96h84a60 60 0 0160 60v212" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/>
 </g><text x="178" y="71" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total PRs:</tspan> 18</text>
 <g transform="translate(160,79) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><path d="M85.57 446.25h340.86a32 32 0 0028.17-47.17L284.18 82.58c-12.09-22.44-44.27-22.44-56.36 0L57.4 399.08a32 32 0 0028.17 47.17z" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M250.26 195.39l5.74 122 5.73-121.95a5.74 5.74 0 00-5.79-6h0a5.74 5.74 0 00-5.68 5.95z" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M256 397.25a20 20 0 1120-20 20 20 0 01-20 20z"/>
@@ -454,7 +454,7 @@
 <rect x="612" y="12" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.19" stroke="#bdbdbd" stroke-width="0.5" />
 <rect x="612" y="24" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.12" stroke="#bdbdbd" stroke-width="0.5" />
 <rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.24" stroke="#bdbdbd" stroke-width="0.5" />
-<rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.31" stroke="#bdbdbd" stroke-width="0.5" />
+<rect x="624" y="48" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.45" stroke="#bdbdbd" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#bdbdbd" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.1"/>
