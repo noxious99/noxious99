@@ -20,7 +20,7 @@
     </g>
   <g transform="translate(0, 56) scale(1.7846153846153847)">
         <g transform="translate(0, 176.79999999999998)">
-<text font-family="Calibri" x="20" y="-154.7" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
+<text font-family="Calibri" x="20" y="-154.7" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Stars:</tspan> 1</text>
 <text font-family="Calibri" x="20" y="-132.6" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 179</text>
 <text font-family="Calibri" x="20" y="-110.49999999999999" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total PRs:</tspan> 33</text>
 <text font-family="Calibri" x="20" y="-88.39999999999999" fill="#bdbdbd" font-size="13"><tspan font-weight="bold">Total Issues:</tspan> 0</text>
@@ -45,7 +45,7 @@
       <g transform="translate(0, 46.5)">
       <text x="160" y="15" font-size="11" fill="#bdbdbd" font-family="Calibri" font-weight="bold">GitHub Stats</text>
       <g transform="translate(160,25) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><path d="M480 208H308L256 48l-52 160H32l140 96-54 160 138-100 138 100-54-160z" fill="none" stroke="#ff8a65" stroke-linejoin="round" stroke-width="48"/>
-</g><text x="178" y="35" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Stars:</tspan> 0</text>
+</g><text x="178" y="35" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Stars:</tspan> 1</text>
 <g transform="translate(160,43) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><circle cx="256" cy="256" r="96" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M160 256H48M464 256H352"/>
 </g><text x="178" y="53" font-size="12" fill="#bdbdbd" font-family="Calibri"><tspan font-weight="bold">Total Commits:</tspan> 185</text>
 <g transform="translate(160,61) scale(0.0234375)" fill="#ff8a65" stroke="#ff8a65"><circle cx="128" cy="416" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M128 144v224M288 160l-64-64 64-64"/><circle cx="128" cy="96" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><circle cx="384" cy="416" r="48" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/><path d="M240 96h84a60 60 0 0160 60v212" fill="none" stroke="#ff8a65" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"/>
@@ -458,7 +458,7 @@
 <rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.41" stroke="#bdbdbd" stroke-width="0.5" />
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.10" stroke="#bdbdbd" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.25" stroke="#bdbdbd" stroke-width="0.5" />
-<rect x="624" y="72" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.10" stroke="#bdbdbd" stroke-width="0.5" />
+<rect x="624" y="72" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.23" stroke="#bdbdbd" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#bdbdbd" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#ff8a65" fill-opacity="0.1"/>
